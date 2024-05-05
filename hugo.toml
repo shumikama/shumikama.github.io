@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+languageCode = 'js'
+title = 'shumikama2'
+
+theme = 'PaperMod'
