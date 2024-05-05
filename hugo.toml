@@ -1,5 +1,16 @@
 baseURL = 'https://shumikama.github.io/'
-languageCode = 'js'
+languageCode = 'ja'
 title = 'shumikama2'
 
 theme = 'PaperMod'
+
+[params.homeInfoParams]
+Title = "shumikama2"
+Content = "サブブログ的な何か"
+[[params.socialIcons]]
+name = "instagram"
+url = "https://www.instagram.com/1021z_ani/"
+
+[[params.socialIcons]]
+name = "mastdon"
+url = "https://fedibird.com/@zani"
