@@ -1,5 +1,6 @@
 baseURL = 'https://shumikama.github.io/'
 languageCode = 'ja'
+defaultContentLanguage = 'ja'
 title = 'shumikama2'
 
 theme = 'PaperMod'
@@ -7,10 +8,32 @@ theme = 'PaperMod'
 [params.homeInfoParams]
 Title = "shumikama2"
 Content = "サブブログ的な何か"
+
 [[params.socialIcons]]
 name = "instagram"
 url = "https://www.instagram.com/1021z_ani/"
 
 [[params.socialIcons]]
-name = "mastdon"
+name = "mastodon"
 url = "https://fedibird.com/@zani"
+
+[[outputs]]
+home = [ "HTML", "RSS", "JSON" ]
+
+[[menu.main]]
+identifier = "Search"
+name = "Search"
+url = "/search/"
+weight = 20
+
+[[menu.main]]
+identifier = "archives"
+name = "Archive"
+url = "/archives/"
+weight = 10
+
+[[menu.main]]
+identifier = "HOME"
+name = "HOME"
+url = ""
+weight = 5
