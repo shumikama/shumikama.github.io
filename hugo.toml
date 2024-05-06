@@ -44,3 +44,4 @@ title = "shumikama2"
 description = "サブブログ的な何か"
 author = "Naonari"
 defaultTheme = "auto"
+images = [ "logo.png" ]
