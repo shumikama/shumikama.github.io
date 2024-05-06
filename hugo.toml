@@ -37,3 +37,10 @@ weight = 5
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
+
+[params]
+env = "production"
+title = "shumikama2"
+description = "サブブログ的な何か"
+author = "Naonari"
+defaultTheme = "auto"
