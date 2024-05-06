@@ -17,9 +17,6 @@ url = "https://www.instagram.com/1021z_ani/"
 name = "mastodon"
 url = "https://fedibird.com/@zani"
 
-[[outputs]]
-home = [ "HTML", "RSS", "JSON" ]
-
 [[menu.main]]
 identifier = "Search"
 name = "Search"
@@ -37,3 +34,6 @@ identifier = "HOME"
 name = "HOME"
 url = ""
 weight = 5
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
