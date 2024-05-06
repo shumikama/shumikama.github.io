@@ -2,7 +2,7 @@ baseURL = 'https://shumikama.github.io/'
 languageCode = 'ja'
 defaultContentLanguage = 'ja'
 title = 'shumikama2'
-
+timeZone = "Asia/Tokyo"
 theme = 'PaperMod'
 
 [params.homeInfoParams]
@@ -42,6 +42,6 @@ home = [ "HTML", "RSS", "JSON" ]
 env = "production"
 title = "shumikama2"
 description = "サブブログ的な何か"
-author = "Naonari"
+DateFormat = '2006/01/02'
 defaultTheme = "auto"
 images = [ "logo.png" ]
