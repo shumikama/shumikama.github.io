@@ -4,6 +4,11 @@
     <title>Posts on shumikama2</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on shumikama2</description>
+    <image>
+      <title>shumikama2</title>
+      <url>http://localhost:1313/logo.png</url>
+      <link>http://localhost:1313/logo.png</link>
+    </image>
     <generator>Hugo -- 0.125.5</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 06 May 2024 18:55:46 +0900</lastBuildDate>

@@ -4,7 +4,6 @@ defaultContentLanguage = 'ja'
 title = 'shumikama2'
 timeZone = "Asia/Tokyo"
 theme = 'PaperMod'
-images = [ "logo.png" ]
 
 [params.homeInfoParams]
 Title = "shumikama2"
@@ -45,3 +44,4 @@ title = "shumikama2"
 description = "サブブログ的な何か"
 DateFormat = '2006/01/02'
 defaultTheme = "auto"
+images = [ "logo.png" ]
