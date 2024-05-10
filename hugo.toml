@@ -4,6 +4,7 @@ defaultContentLanguage = 'ja'
 title = 'shumikama2'
 timeZone = "Asia/Tokyo"
 theme = 'PaperMod'
+googleAnalytics = "G-WQN2DY6SZJ"
 
 [params.homeInfoParams]
 Title = "shumikama2"
