@@ -8,7 +8,7 @@ googleAnalytics = "G-WQN2DY6SZJ"
 
 [params.homeInfoParams]
 Title = "shumikama2"
-Content = "サブブログ的な何か"
+Content = "サブブログ的な何か。"
 
 [[params.socialIcons]]
 name = "instagram"
@@ -35,6 +35,12 @@ identifier = "HOME"
 name = "HOME"
 url = ""
 weight = 5
+
+[[menu.main]]
+identifier = "About"
+name = "About"
+url = "https://shumikama.github.io/posts/about/"
+weight = 30
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
