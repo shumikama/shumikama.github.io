@@ -158,9 +158,9 @@ GitHubへのプッシュ ターミナルでの作業 今作成したファイル
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/posts/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>当サイトについての情報。
 名称 shumikama2
 運営者 なおなり （LinkInBio）

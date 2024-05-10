@@ -18,6 +18,10 @@ url = "https://www.instagram.com/1021z_ani/"
 name = "mastodon"
 url = "https://fedibird.com/@zani"
 
+[[params.socialIcons]]
+name = "ABOUT"
+url = "https://shumikama.github.io/about/"
+
 [[menu.main]]
 identifier = "Search"
 name = "Search"
@@ -35,12 +39,6 @@ identifier = "HOME"
 name = "HOME"
 url = ""
 weight = 5
-
-[[menu.main]]
-identifier = "About"
-name = "About"
-url = "https://shumikama.github.io/posts/about/"
-weight = 30
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
