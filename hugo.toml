@@ -18,10 +18,6 @@ url = "https://www.instagram.com/1021z_ani/"
 name = "mastodon"
 url = "https://fedibird.com/@zani"
 
-[[params.socialIcons]]
-name = "ABOUT"
-url = "https://shumikama.github.io/about/"
-
 [[menu.main]]
 identifier = "Search"
 name = "Search"
@@ -50,3 +46,4 @@ description = "サブブログ的な何か"
 DateFormat = '2006/01/02'
 defaultTheme = "auto"
 images = [ "logo.png" ]
+
