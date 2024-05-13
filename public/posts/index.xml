@@ -11,8 +11,26 @@
     </image>
     <generator>Hugo -- 0.125.5</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 10 May 2024 17:38:58 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 18:56:46 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Begleriwiki</title>
+      <link>http://localhost:1313/posts/begleriwiki/</link>
+      <pubDate>Sun, 12 May 2024 18:56:46 +0900</pubDate>
+      <guid>http://localhost:1313/posts/begleriwiki/</guid>
+      <description>先日バズっていたベグレリのShorts動画のコメント欄にて、「ベグレリなんてモノを全然知らず、Wikipediaで見てみたけど…」みたいなコメントがあった。Wikipediaはインターネット上の百科事典。知名度もドメインパワーも強く、知らないことがある時はWikipediaを見てみるという人も多いのだろう。
+Wikipediaには、日本語の「ベグレリ」というページがある。その内容を引用してみると、、、
+ベグレリ（英語: begleri、ギリシア語: μπεγλέρι）は、短い紐とその両端にある、ビーズと呼ばれる重しで構成されるスキルトイ。指に絡めて回転させるなどといったトリックを習得して遊ぶ。ギリシャ発祥で、ロザリオまたはコンボロイが派生したとされる。コンボロイの紐は輪状で、ビーズが数珠のように十数個通されているのに対し、ベグレリの紐は輪状に結ばれておらず、ビーズが紐の両端に対になって通されているのが特徴。 ベグレリのビーズには半貴石や金属など様々な素材が使われており、形も多種多様である。打楽器であるアサラトに似た形状の物も多いが、ベグレリは指で動かすため、大きさはアサラトに比べるとかなり小さい。（Wikipedia「ベグレリ」https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%B0%E3%83%AC%E3%83%AAより2024/5/12引用）
+このように説明されていた。
+一方、Wikipediaでけん玉やヨーヨー、ディアボロなど他のスキルトイを見てみると、歴史や技、大会についての記述もあった。これらと比較すると、Wikipediaのベグレリページは非常に情報量の少ないものであるように感じた。
+ということで、ここでは、Wikipediaのベグレリのページを編集することを想定したうえで、どのようなことを書くべきかについて考える。
+書きたい内容 歴史 やはりスキルトイを知る以上、その道具の簡単な歴史について記述すべきであろう。ただ、ベグレリの歴史について日本語でまとめた論文は（現在のところ）見つけられていない。日本でベグレリプレイヤーが少ないこと、ベグレリ認知度が低いことを鑑みると、おそらく今までベグレリの日本語論文は存在しなかったと考えられる。よって、ベグレリの歴史について記述するためには、海外の文献を参考にする必要がある。しかし、現在のところ、信頼の置ける論文などによってベグレリの歴史について書いている（海外の）論文は見つけられていない。。。
+実は、Wikipediaのベグレリページには、英語版が存在する。英語版では、日本語版の内容に加え、「Modern revival」、「In popular culture」という項が追加され、ベグレリの歴史・ベグレリの素材・大衆文化におけるベグレリ、などについて記述されている。
+よって、とりあえずのところは、英語版を日本語訳し、それをもってベグレリの歴史の記述に充てるということでいいとしよう。（実際英語版ページの引用元を見るに、信用に足る情報かどうかは微妙であるが…）
+種類 ベグレリには様々な種類がある。形、材質などが異なるベグレリが数多く存在する。
+これについて、Wikipedia英語版ページでは次のようにまとめている。
+Due to the nature of play, begleri have shifted from traditional ornate beads to simpler performance-oriented beads. Two common begleri types are monkey-fist &amp;ldquo;beads&amp;rdquo;, made from paracord, and solid beads, which can be made of metal (aluminum, steel, titanium), acrylic resin, Delrin, Ultem, or wood. Monkey-fist begleri are commonly made by people beginning to practice &amp;ldquo;slinging&amp;rdquo;, the common term for begleri manipulation; solid type beads are becoming more and more common, and companies develop new geometries of beads based on feedback from consumers.</description>
+    </item>
     <item>
       <title>バズった動画のコメント欄のカオスっぷりが好き</title>
       <link>http://localhost:1313/posts/begleribuzz/</link>
