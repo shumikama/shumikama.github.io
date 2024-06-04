@@ -11,16 +11,13 @@ tags = [ "", "" ]
 shumikama2
 
 ### 運営者
-なおなり （[LinkInBio](https://na0link.blogspot.com)）
+なおなり （[profile](/profile)）
 
 ### サイトURL
 [https://shumikama.github.io](https://shumikama.github.io)
 
 ### 内容
-ベグレリ・けん玉が好きな主が、サブブログとして雑多なことを書く（予定）。
-
-### SNS
-[Instagram](https://www.instagram.com/1021z_ani/)、[Mastodon](https://fedibird.com/@zani)など。
+ベグレリ・けん玉が好きな主のポートフォリオに擬態したサブブログ。（[アーカイブ](/archives)）
 
 ### 運営者について
 ベグレリというスキルトイや、けん玉などで遊んでいる人です。ベグレリの世界大会に出場したり、けん玉の練習会を主催したりしています。

@@ -6,9 +6,22 @@ timeZone = "Asia/Tokyo"
 theme = 'PaperMod'
 googleAnalytics = "G-WQN2DY6SZJ"
 
-[params.homeInfoParams]
-Title = "shumikama2"
-Content = "サブブログ的な何か。"
+[params.profileMode]
+enabled = true
+title = "Naonari"
+subtitle = "begleri & kendama player"
+imageUrl = "profile.png"
+imageWidth = 120
+imageHeight = 120
+
+[[params.profileMode.buttons]]
+  name = "Profile"
+  url = "/profile"
+
+[[params.profileMode.buttons]]
+  name = "LinkInBio"
+  url = "https://na0link.blogspot.com"
+
 
 [[params.socialIcons]]
 name = "instagram"
@@ -18,6 +31,11 @@ url = "https://www.instagram.com/1021z_ani/"
 name = "mastodon"
 url = "https://fedibird.com/@zani"
 
+[[params.socialIcons]]
+name = "spotify"
+url = "https://open.spotify.com/show/1O1CuKaReDUQD6y9enUqMd"
+
+
 [[menu.main]]
 identifier = "Search"
 name = "Search"
@@ -25,16 +43,11 @@ url = "/search/"
 weight = 20
 
 [[menu.main]]
-identifier = "archives"
-name = "Archive"
-url = "/archives/"
-weight = 10
-
-[[menu.main]]
-identifier = "HOME"
-name = "HOME"
-url = ""
+identifier = "posts"
+name = "posts"
+url = "/posts"
 weight = 5
+
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
