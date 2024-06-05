@@ -55,7 +55,7 @@ home = [ "HTML", "RSS", "JSON" ]
 [params]
 env = "production"
 title = "shumikama2"
-description = "サブブログ的な何か"
+description = "ベグレリが好きな人の個人サイト"
 DateFormat = '2006/01/02'
 defaultTheme = "auto"
 images = [ "logo.png" ]
