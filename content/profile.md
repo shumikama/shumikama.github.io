@@ -5,16 +5,7 @@ ShowToc = false
 tags = [ "", "" ]
 +++
 
-{{< figure src="/Portfolio.png" title="" >}}
-
-## なおなり/Naonari
-
-
-ベグレリ・けん玉プレイヤー。
-
-小学生の頃からジャグリングやけん玉に親しむ。現在では、けん玉練習会「ゆるけん」を主催するほか、公民館や児童館でのけん玉講座活動も行う。
-
-2021年からは、ベグレリ[^1]という競技を始める。ベグレリのオンラインコンテストであるSingleGripOpen2023では2位入賞を果たした。
+{{< figure src="/Portfolio2.png" title="" >}}
 
 ## Social
 - [Instagram](https://www.instagram.com/1021z_ani/)（@1021z_ani）
@@ -22,11 +13,21 @@ tags = [ "", "" ]
 - [ブログ](https://na0nnnnn.blogspot.com)（趣味の鎌足）
 - [LinkInBio](https://na0link.blogspot.com/)
 
-## プロジェクト
+## Project
 - [三河ゆるゆるけん玉くらぶ](https://mikawayuruken.amebaownd.com/)（けん玉練習会）
 - [愛知・岐阜けん玉遊び情報](https://sites.google.com/view/kendama-portal?usp=sharing)（近隣けん玉練習会日程確認サイト）
 - [ジャグばたラジオ](https://linktr.ee/juggbata_radio)（ポッドキャスト）
 - [『One holiday with Begleri』](https://www.youtube.com/watch?v=kse3zT1TmSA)（ベグレリショートエディット）
+
+***
+
+## 自己紹介
+ベグレリ[^1]とけん玉のプレイヤーです。
+ジャグリングやけん玉の経験を活かして、ベグレリの技術を追求することを楽しんでいます。けん玉練習会を主催したり、けん玉ワークショップを行ったりもしています。
+
+好きなお菓子はハッピーターンです。
+
+***
 
 ## 資格
 - GLOKENけん玉先生
@@ -48,4 +49,3 @@ tags = [ "", "" ]
 
 
 [^1]: ベグレリとは、15cmほどの紐の両端にビーズの付いたスキルトイ。ペン回しのように、指先で技を行う。
-{{< youtube kse3zT1TmSA >}}

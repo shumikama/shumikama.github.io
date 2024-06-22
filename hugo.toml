@@ -32,6 +32,10 @@ name = "mastodon"
 url = "https://fedibird.com/@zani"
 
 [[params.socialIcons]]
+name = "youtube"
+url = "https://www.youtube.com/watch?v=kse3zT1TmSA"
+
+[[params.socialIcons]]
 name = "spotify"
 url = "https://open.spotify.com/show/1O1CuKaReDUQD6y9enUqMd"
 
