@@ -1,5 +1,5 @@
 +++
-title = 'Gallery'
+title = ''
 draft = false
 ShowToc = false
 tags = [ "", "" ]
