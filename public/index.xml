@@ -243,6 +243,13 @@ GitHubへのプッシュ ターミナルでの作業 今作成したファイル
     </item>
     <item>
       <title></title>
+      <link>http://localhost:1313/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/links/</guid>
+      <description>Social Instagram（@1021z_ani） Mastodon（@zani@fedibird.com） Blog（趣味の鎌足） Project 三河ゆるゆるけん玉くらぶ 愛知・岐阜けん玉遊び情報 『ベグレリを始めてみよう！』 『One holiday with Begleri』 ジャグばたラジオ </description>
+    </item>
+    <item>
+      <title></title>
       <link>http://localhost:1313/profile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/profile/</guid>
@@ -267,13 +274,6 @@ Googleアナリティクスについて 当サイトでは、Googleによるア�
 免責事項 当サイトの内容により生じた不利益について、当方は一切の責任を負いかねます。
 著作権 当サイトにある、文章・画像などの著作物を無断転載することを禁じます。それらを自サイトにて掲載する際は、引用であることを示したうえで、当サイトへのリンクを掲載してください。
 （2024/5/10記）</description>
-    </item>
-    <item>
-      <title>Links</title>
-      <link>http://localhost:1313/links/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/links/</guid>
-      <description>Social Instagram（@1021z_ani） Mastodon（@zani@fedibird.com） Blog（趣味の鎌足） Project 三河ゆるゆるけん玉くらぶ（けん玉練習会） 愛知・岐阜けん玉遊び情報（近隣けん玉練習会日程確認サイト） 『ベグレリを始めてみよう！』（ベグレリ入門記事） 『One holiday with Begleri』（ベグレリショートエディット） ジャグばたラジオ </description>
     </item>
   </channel>
 </rss>
