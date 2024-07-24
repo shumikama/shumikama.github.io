@@ -46,11 +46,6 @@ name = "Search"
 url = "/search/"
 weight = 20
 
-[[menu.main]]
-identifier = "Gallery"
-name = "Gallery"
-url = "/gallery/"
-weight = 15
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
