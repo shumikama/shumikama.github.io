@@ -19,8 +19,8 @@ imageHeight = 120
   url = "/profile"
 
 [[params.profileMode.buttons]]
-  name = "LinkInBio"
-  url = "https://na0link.blogspot.com"
+  name = "Gallery"
+  url = "/gallery/"
 
 
 [[params.socialIcons]]

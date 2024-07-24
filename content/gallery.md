@@ -5,9 +5,9 @@ ShowToc = false
 tags = [ "", "" ]
 +++
 
-### ベグレリShortEdit（One holiday with Begleri）
+### ベグレリShortEdit
 {{< youtube kse3zT1TmSA >}}
-
+ベグレリ動画『One holiday with Begleri』
 ***
 
 ### ベグレリ世界大会SlingSlam2023（3rd place）
