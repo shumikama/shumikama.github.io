@@ -11,9 +11,9 @@ tags = [ "", "" ]
 
 ***
 
-### SlingSlam2023
-ベグレリ世界大会SlingSlam2023出場動画。結果は3位。
-{{< instagram CvmdHtxAdzi >}}
+### SlingSlam2024
+ベグレリ世界大会SlingSlam2024出場動画。結果は2位。
+{{< instagram C-KrvPGy_fj >}}
 
 ***
 
@@ -21,6 +21,9 @@ tags = [ "", "" ]
 ベグレリ世界大会SingleGripOpen2023出場動画。結果は2位。
 {{< instagram C0EGGt5Sk9a >}}
 
+### SlingSlam2023
+ベグレリ世界大会SlingSlam2023出場動画。結果は3位。
+{{< instagram CvmdHtxAdzi >}}
 ***
 
 ### ゆるけんピクニックVlog

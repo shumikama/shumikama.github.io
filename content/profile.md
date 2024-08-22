@@ -30,6 +30,7 @@ tags = [ "", "" ]
 - 市民タイムスけん玉大会2023ノセメガネカップ　中・上級クラス もしかめ部門 2位
 - SlingSlam2023 begleri division 3rd place
 - SingleGripOpen2023 2nd place
+- SlingSlam2024 begleri division 2nd place
 
 ## メディア
 - 2019.12.31  NHK紅白歌合戦　三山ひろし～第3回けん玉ギネス記録への道～
