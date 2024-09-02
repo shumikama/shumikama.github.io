@@ -1,11 +1,9 @@
 +++
-title = ''
+title = 'Gallery'
 draft = false
 ShowToc = false
 tags = [ "", "" ]
 +++
-
-## Videos
 
 ### 『One holiday with Begleri』
 ベグレリのショートエディット
@@ -18,7 +16,6 @@ tags = [ "", "" ]
 
 ***
 
-## Contest
 ### SlingSlam2024
 ベグレリ世界大会SlingSlam2024出場動画（2nd place）。
 {{< instagram C-KrvPGy_fj >}}
