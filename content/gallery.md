@@ -12,7 +12,7 @@ tags = [ "", "" ]
 ***
 
 ### kendama video
-{{< youtube DNR73XjFnBM >}}
+{{< youtube KnDOuOJm4xg >}}
 
 ***
 
