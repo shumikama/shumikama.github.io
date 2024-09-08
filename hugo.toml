@@ -56,7 +56,7 @@ env = "production"
 title = "shumikama2"
 description = "ベグレリ・けん玉プレイヤーの個人サイト"
 DateFormat = '2006/01/02'
-defaultTheme = "auto"
+defaultTheme = "light"
 images = [ "profile2.png" ]
 ShowBreadCrumbs = false
 

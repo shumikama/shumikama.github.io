@@ -2,9 +2,13 @@
 draft = false
 ShowToc = false
 tags = [ "", "" ]
+[cover]
+image = "/Links1.png"
+alt = "Links"
+
+relative = false
 +++
 
-{{< figure src="/Links1.png" title="" >}}
 
 ## Social
 - Instagram（[@1021z_ani](https://www.instagram.com/1021z_ani/)）

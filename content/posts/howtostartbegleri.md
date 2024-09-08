@@ -4,9 +4,11 @@ date = 2024-09-02T17:00:33+09:00
 draft = false
 ShowToc = true
 tags = [ "", "" ]
+[cover]
+image = "/howtobegleristart.png"
+alt = "Links"
+relative = false
 +++
-
-{{< figure src="/howtobegleristart.png" title="" >}}
 
 これまで、ブログなどで[ベグレリ入門記事](https://na0nnnnn.blogspot.com/2022/12/blog-post_95.html)を書いてきました。ただしこれは、ベグレリをはじめとしたスキルトイ・ジャグリングに触れたことがない人が読むことを想定して執筆しています。そのため、かなり易しめの内容になっており、書きたかったのに泣く泣く削った文言などもあります。
 
