@@ -1,37 +1,30 @@
 +++
-title = 'Gallery'
+title = ''
 draft = false
 ShowToc = false
 tags = [ "", "" ]
 +++
 
+{{< figure src="/Gallery1.png" title="" >}}
+
 ### 『One holiday with Begleri』
-ベグレリのショートエディット
 {{< youtube kse3zT1TmSA >}}
 
 ***
-
-### kendama video
-{{< youtube KnDOuOJm4xg >}}
-
-***
-
-### SlingSlam2024
-ベグレリ世界大会SlingSlam2024出場動画（2nd place）。
+### SlingSlam2024 2nd place
 {{< instagram C-KrvPGy_fj >}}
 
 ***
 
-### SingleGripOpen2023
-ベグレリ世界大会SingleGripOpen2023出場動画（2nd place）。
+### SingleGripOpen2023 2nd place
 {{< instagram C0EGGt5Sk9a >}}
 
 *** 
 
-### SlingSlam2023
-ベグレリ世界大会SlingSlam2023出場動画（3rd place）。
+### SlingSlam2023 3rd place
 {{< instagram CvmdHtxAdzi >}}
 ***
+
 
 ## Misc.
 ### ゆるけんピクニックVlog

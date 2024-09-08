@@ -4,10 +4,12 @@ ShowToc = false
 tags = [ "", "" ]
 +++
 
+{{< figure src="/Links1.png" title="" >}}
+
 ## Social
-- [Instagram](https://www.instagram.com/1021z_ani/)（@1021z_ani）
-- [Mastodon](https://fedibird.com/@zani)（@zani@fedibird.com）
-- [Blog](https://na0nnnnn.blogspot.com)（趣味の鎌足）
+- Instagram（[@1021z_ani](https://www.instagram.com/1021z_ani/)）
+- Mastodon（[@zani@fedibird.com](https://fedibird.com/@zani)）
+- Blog（[趣味の鎌足](https://na0nnnnn.blogspot.com)）
 
 ## Project
 - [三河ゆるゆるけん玉くらぶ](https://mikawayuruken.amebaownd.com/)
