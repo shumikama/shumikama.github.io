@@ -10,7 +10,7 @@ googleAnalytics = "G-WQN2DY6SZJ"
 [params.profileMode]
 enabled = true
 title = "Naonari"
-subtitle = "begleri & kendama player"
+subtitle = "Begleri & Kendama player"
 imageUrl = "profile2.png"
 imageWidth = 120
 imageHeight = 120

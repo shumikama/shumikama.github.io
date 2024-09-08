@@ -50,5 +50,8 @@ tags = [ "", "" ]
 - [Mastodon](https://fedibird.com/@zani)（@zani@fedibird.com）
 - [ブログ](https://na0nnnnn.blogspot.com)（趣味の鎌足）
 
+## Gallery
+大会出場動画や写真などをまとめたギャラリーページは[こちら](https://shumikama.github.io/gallery/)。
+
 
 [^1]: ベグレリとは、15cmほどの紐の両端にビーズの付いたスキルトイ。ペン回しのように、指先で技を行う。
