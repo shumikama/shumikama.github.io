@@ -39,6 +39,9 @@ tags = [ "", "" ]
 
 ***
 
+## Gallery
+大会出場動画や写真などをまとめたギャラリーページは[こちら](https://shumikama.github.io/gallery/)。
+
 ## Project
 - [三河ゆるゆるけん玉くらぶ](https://mikawayuruken.amebaownd.com/)（けん玉練習会）
 - [愛知・岐阜けん玉遊び情報](https://sites.google.com/view/kendama-portal?usp=sharing)（近隣けん玉練習会日程確認サイト）
@@ -46,12 +49,11 @@ tags = [ "", "" ]
 - [『One holiday with Begleri』](https://www.youtube.com/watch?v=kse3zT1TmSA)（ベグレリショートエディット）
 
 ## Social
-- [Instagram](https://www.instagram.com/1021z_ani/)（@1021z_ani）
-- [Mastodon](https://fedibird.com/@zani)（@zani@fedibird.com）
-- [ブログ](https://na0nnnnn.blogspot.com)（趣味の鎌足）
+- Instagram（[@1021z_ani](https://www.instagram.com/1021z_ani/)）
+- Mastodon（[@zani@fedibird.com](https://fedibird.com/@zani)）
+- Blog（[趣味の鎌足](https://na0nnnnn.blogspot.com)）
 
-## Gallery
-大会出場動画や写真などをまとめたギャラリーページは[こちら](https://shumikama.github.io/gallery/)。
+
 
 
 [^1]: ベグレリとは、15cmほどの紐の両端にビーズの付いたスキルトイ。ペン回しのように、指先で技を行う。
