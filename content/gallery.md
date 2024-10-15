@@ -11,9 +11,12 @@ relative = false
 　
 　
 ## Video
+### 『Riverside Begleri Video』
+{{< youtube -r9ysuVX85o >}}
+　
+
 ### 『One holiday with Begleri』
 {{< youtube kse3zT1TmSA >}}
-
 ***
 　
 
